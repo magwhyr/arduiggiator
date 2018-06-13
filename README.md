@@ -1,7 +1,7 @@
-arduino-arpeggiator
+arduiggiator
 ===================
 
-Arpeggiator based on Arduino and the SparkFun midi shield. It will run free
+Arpeggiator based on Arduino and the SparkFun midi shield. Credit to wbajzek's arduino-arpeggiator for the foundation. It will run free
 or sync to midi clock if it detects a start message. 
 
 Button D2 = Toggle hold-mode on/off (I might replace hold-mode on/off
